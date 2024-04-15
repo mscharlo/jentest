@@ -1,5 +1,1 @@
-hello world i am a document yay
-
-Here is a second line of text I added in an edit
-
-Here is an update that we don't want oh no
+bad bad edit oh no
